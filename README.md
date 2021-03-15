@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/239qo1xcaocook90/branch/master?svg=true)](https://ci.appveyor.com/project/Mikhail9030/aqa5-2patterns/branch/master)
